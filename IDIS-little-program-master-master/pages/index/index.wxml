@@ -1,0 +1,18 @@
+
+<Home wx:if="{{PageCur=='Home'}}"></Home>
+<logs wx:if="{{PageCur=='logs'}}"></logs>
+
+<view class="cu-bar tabbar bg-white  foot">
+
+  <view class="action" bindtap="NavChange" data-cur="Home">
+    <view class="{{PageCur=='Home'?'text-green':'text-gray'}}">
+      <view class="cuIcon-home"></view> 首页
+    </view>
+  </view>
+  <view class="action" bindtap="NavChange" data-cur="logs">
+    <view class="{{PageCur=='logs'?'text-green':'text-gray'}}">
+      <view class="cuIcon-my"></view> 我的
+    </view>
+  </view>
+
+</view>

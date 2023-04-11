@@ -1,0 +1,35 @@
+/*index.wxss*/
+.charts {
+    width: 750rpx;
+    height: 500rpx;
+}
+
+page {
+    font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica,
+    Segoe UI, Arial, Roboto, 'PingFang SC', 'miui', 'Hiragino Sans GB', 'Microsoft Yahei',
+    sans-serif;
+}
+
+.pic{
+    text-align: center;
+    margin-top:50px;
+}
+
+.pic2{
+    text-align: center;
+    margin-top:40px;
+}
+
+.wendu{
+    margin-top:5px;
+}
+
+
+.light2{
+    margin-top:30px;
+    text-align: center;
+}
+
+.pump{
+    text-align: center;
+}

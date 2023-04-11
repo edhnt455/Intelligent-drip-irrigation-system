@@ -1,0 +1,57 @@
+<!--pages/register.wxml-->
+<cu-custom bgColor="bg-gradual-green">
+  <view slot="content">用户注册</view>
+</cu-custom>
+<view class="container">
+<view class="register-icon">
+  <image class="register-img" src="/image/register.png"></image>
+</view>
+  <view class="register-from"> 
+
+   <!--账号-->
+   <view class="inputView"> 
+     <!-- <image class="nameImage" src="/images/name.png"></image>  -->
+     <label class="registerLab">账号</label> 
+     <input class="inputText"    value="{{username}}"     placeholder="请输入账号" bindinput="usernameInput" /> 
+   </view> 
+   <view class="line"></view> 
+   <!--密码-->
+   <view class="inputView"> 
+     <!-- <image class="keyImage" src="/images/key.png"></image>  -->
+     <label class="registerLab">密码</label> 
+     <input class="inputText" password="true"    value="{{password}}" placeholder="请输入密码" bindinput="passwordInput" /> 
+   </view> 
+   <view class="line"></view> 
+   <!--确认密码-->
+   <view class="inputView"> 
+     <!-- <image class="keyImage" src="/images/key.png"></image>  -->
+     <label class="registerLab">确认密码</label> 
+     <input class="inputText"    value="{{password2}}" password="true" placeholder="请再次输入密码" bindinput="passwordInput2" /> 
+   </view>
+   <view class="line"></view> 
+   <!--输入iyuu信息-->
+   <view class="inputView">
+     <label class="registerLab">IYUUkey</label>
+     <input class="inputText"    value="{{iyuu}}" placeholder="输入iyuukey（非必须）" bindinput="iyuuInput" />
+   </view>
+   <view class="line"></view> 
+   <!--城市选择-->
+   <view class="section">
+     <view class="section__title">省市区选择器</view>
+     <picker mode="region" bindchange="bindRegionChange" value="{{region}}" custom-item="{{customItem}}">
+       <view class="picker">
+         当前选择：{{region[0]}}，{{region[1]}}，{{region[2]}}
+       </view>
+     </picker>
+   </view>
+    
+ 
+    <!--注册-->
+   <view class="registerBtnView"> 
+     <button class="registerBtn" type="primary" bindtap="register">注册</button> 
+   </view> 
+
+ </view> 
+
+</view>
+

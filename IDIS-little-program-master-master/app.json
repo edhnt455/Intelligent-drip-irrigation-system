@@ -1,0 +1,32 @@
+{
+  "pages":[
+    "pages/home/home",
+    "pages/login/login",
+    
+    
+    "pages/chart/chart",
+    "pages/register/register",
+    "pages/introduce/introduce",
+    "pages/learn/learn",    
+    "pages/lib/lins/libs",  
+    "pages/logs/logs",   
+    "pages/setting/setting", 
+    "pages/lib/libs/libs"
+  ],
+  "window":{
+    "backgroundTextStyle": "dark",    
+    "navigationBarBackgroundColor": "#fff",
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh":true
+  },
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom",
+    "Home": "/pages/home/home",
+    "logs": "/pages/logs/logs"
+  },
+
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}          
+    

@@ -1,0 +1,21 @@
+<!-- pages/lib/libs/libs.wxml -->
+<cu-custom bgColor="bg-gradual-green" isBack="{{true}}">
+  <view slot="backText">返回</view>
+  <view slot="content">智能题库</view>
+</cu-custom>
+    <!-- <button class="cu-btn lg bg-green" bindtap="btnStart">开始学习</button> -->
+<view class="page">
+  <scroll-view scroll-y class="section">
+    <view class="cu-list menu sm-border solid-bottom card-menu margin-top" wx:for="{{items}}" wx:for-item="key" id="{{key}}" bindtap="itemtap">
+      <view class="cu-item ">
+      <view class="action text-bold text-black text-lg">
+        <text class="cuIcon-title text-blue"></text>
+        {{key}}
+      </view>
+      </view>
+    </view>
+  </scroll-view>
+  
+</view>
+
+

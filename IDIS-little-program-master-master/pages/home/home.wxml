@@ -1,0 +1,22 @@
+<!--pages/Home/home/home.wxml-->
+<cu-custom bgColor="bg-gradual-green">
+  <view slot="content">智能滴灌小助手</view>
+</cu-custom>
+
+<swiper class=" screen-swiper2 square-dot  shadow  fixed" indicator-dots="true" style="top:{{CustomBar}}px;" circular="true" autoplay="true" interval="5000" duration="500" indicator-active-color="#fec432">
+    <swiper-item wx:for="{{swiperList}}" wx:key>
+        <image src="{{item.url}}" mode="aspectFill" wx:if="{{item.type=='image'}}"></image>
+        <video src="{{item.url}}" autoplay loop muted show-play-btn="{{false}}" controls="{{false}}" objectFit="cover" wx:if="{{item.type=='video'}}"></video>
+    </swiper-item>  
+</swiper>  
+<view class="padding-top-xl"></view>
+<view class="bgIndex">
+  <view class='nav-list margin-top-xl'>
+    <navigator open-type="navigate" hover-class='none' url="{{item.url}}" class="nav-li bg-{{item.color}}" wx:for="{{elements}}" wx:key>
+      <view class="nav-title">{{item.title}}</view>
+      <view class="nav-name">{{item.name}}</view>
+      <text class='cuIcon-{{item.icon}}'></text>
+    </navigator>
+  </view>
+</view>
+

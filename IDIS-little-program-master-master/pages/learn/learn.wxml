@@ -1,0 +1,18 @@
+<!--pages/introduce/introduce.wxml-->
+<cu-custom bgColor="bg-gradual-green" isBack="{{true}}">
+    <view slot="backText">返回</view>
+    <view slot="content">绑定树莓派</view>
+    </cu-custom>
+
+<view class="page">
+    <!--标题-->
+    <view class='page-head'>
+        <view class="page-title">
+            请扫描机身二维码
+        </view>
+        <!--分数-->
+        <view class='page-score'>
+            <image bindtap='scanCode' src='/image/scan.png' mode='widthFix'></image>
+        </view>
+    </view>
+</view>

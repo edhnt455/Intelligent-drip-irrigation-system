@@ -1,0 +1,13 @@
+/*index.wxss*/
+.charts {
+    margin-top: 20px;
+    width: 750rpx;
+    height: 500rpx;
+  }
+
+.photo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 40px;
+}

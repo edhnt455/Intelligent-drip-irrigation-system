@@ -1,0 +1,72 @@
+/* pages/lib/libs/libs.wxss */
+
+
+
+
+.top_title{
+  font-family: Neue;
+  color: #888;
+  position: absolute;
+  left: 15px;
+  bottom: 0px;
+  height: 26px;
+}
+
+.scroll_item_name {
+  margin-left: 10rpx;
+  line-height: 150rpx;
+  text-align: left;
+  font-size: 36rpx;
+}
+
+.alter_name {
+  position: fixed;
+  top: 460rpx;
+  background-color: #000;
+  height: 200rpx;
+  width: 500rpx;
+  left: 125rpx;
+}
+
+.input_name {
+  display: flex;
+  margin-top: 10rpx;
+  height: 80rpx;
+}
+
+.alter_btn {
+  width: 100%;
+  margin-top: 20rpx;
+  height: 80rpx;
+  bottom: 20rpx;
+  display: flex;
+}
+
+.flex-item {
+  width: 150rpx;
+  height: 80rpx;
+  background-color: #fff;
+  color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.round-click {
+	height: 120rpx;
+	width: 120rpx;
+	background-color:#fec432;
+	border-radius: 100%;
+	position: fixed;
+	bottom: 150rpx;
+	right: 20rpx;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	z-index: 9;
+}
+.round-click view {
+	font-size: 32rpx;
+	max-width: 80rpx;
+	color: #fff;
+	text-align: center;
+}

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83575548-7235-46b7-beea-ca8b21ba78b1" name="Changes" comment="Changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/app.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon/Home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon/Me.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon/_Home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/icon/_Me.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/exam/exam.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/exam/exam.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/exam/exam.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/exam/exam.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/finalexam/finalexam.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/finalexam/finalexam.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/finalexam/finalexam.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/finalexam/finalexam.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home/home.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home/home.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home/home.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home/home.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home/home.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home/home.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index/index.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/lib/addLib/addLib.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/lib/addLib/addLib.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/lib/addLib/addLib.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/lib/addLib/addLib.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/lib/libs/libs.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/lib/libs/libs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/lib/libs/libs.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/lib/libs/libs.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/login/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/login/login.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login/login.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/login/login.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login/login.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/logs/logs.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/logs/logs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/logs/logs.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/logs/logs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/logs/logs.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/logs/logs.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mine/mine.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mine/mine.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/recommend/recommend.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/recommend/recommend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/recommend/recommend.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/recommend/recommend.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/register/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/register/register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/register/register.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/register/register.wxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/register/register.wxss" beforeDir="false" afterPath="$PROJECT_DIR$/pages/register/register.wxss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/results/results.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/results/results.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/results/results.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/results/results.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/select/select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/select/select.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/select/select.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/select/select.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/select2/select2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/select2/select2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/select2/select2.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/select2/select2.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/project.config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/util.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24HVsWAlWp3oI3EGeziCIZFGJkQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="F:/Download/uCharts-master/示例项目/微信小程序（原生）" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83575548-7235-46b7-beea-ca8b21ba78b1" name="Changes" comment="" />
+      <created>1643287706999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643287706999</updated>
+      <workItem from="1643287708203" duration="5000" />
+      <workItem from="1643520805644" duration="20000" />
+      <workItem from="1645193925968" duration="1857000" />
+      <workItem from="1645242943493" duration="912000" />
+      <workItem from="1645246494657" duration="3385000" />
+      <workItem from="1645258047423" duration="246000" />
+      <workItem from="1645258317513" duration="1507000" />
+      <workItem from="1645281409126" duration="610000" />
+      <workItem from="1645443415937" duration="8086000" />
+      <workItem from="1645497328284" duration="1865000" />
+      <workItem from="1645517453871" duration="5417000" />
+      <workItem from="1645540131085" duration="593000" />
+      <workItem from="1645579682426" duration="6430000" />
+      <workItem from="1645627920582" duration="3636000" />
+      <workItem from="1645668994788" duration="7352000" />
+      <workItem from="1645689740292" duration="7508000" />
+      <workItem from="1645757008052" duration="4206000" />
+      <workItem from="1645769872693" duration="7372000" />
+      <workItem from="1645783927311" duration="1703000" />
+      <workItem from="1647767536832" duration="545000" />
+      <workItem from="1647768117944" duration="1761000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
